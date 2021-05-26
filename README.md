@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @binesheb
-- 👀 I’m interested in tech stuffs
+- 👀 I’m a Full Stack Developer and interested in tech stuffs
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on tech stuffs
 - 📫 How to reach me ... @binesheb
