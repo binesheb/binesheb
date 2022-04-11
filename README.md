@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @binesheb
 - 👀 I’m a Full Stack Developer and interested in tech stuffs
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on tech stuffs
+- 💞️ I’m looking to collaborate on everything i am skilled at
 - 📫 How to reach me ... @binesheb
 
 <!---
