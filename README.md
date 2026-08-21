@@ -13,8 +13,21 @@ I’m a design engineer and technology builder interested in practical systems t
 
 - **B.I.N.E.S.H. OS** — an automation platform for connected devices and operational systems.
 - **RetailLens** — a computer-vision foundation for retail environments.
+- **Living Pookalam** — an interactive projection platform built for responsive visual experiences.
+- **Universal Scanner** — an Android barcode and QR scanning application.
 
 > This profile evolves with the projects behind it. Individual repositories are the source of truth for architecture, setup, releases, and update instructions.
+
+## Repository update policy
+
+This profile repository is documentation-only, so it does not need a runtime self-updater. For local edits, update safely from the default branch:
+
+```bash
+git fetch --prune origin main
+git pull --ff-only origin main
+```
+
+To reproduce a known revision, check out its commit SHA. Roll back by checking out or resetting to a previously verified commit after reviewing any local changes.
 
 ## Collaboration
 
