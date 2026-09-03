@@ -11,10 +11,10 @@ I’m a design engineer and technology builder interested in practical systems t
 
 ## Featured projects
 
-- **B.I.N.E.S.H. OS** — an automation platform for connected devices and operational systems.
-- **RetailLens** — a computer-vision foundation for retail environments.
-- **Living Pookalam** — an interactive projection platform built for responsive visual experiences.
-- **Universal Scanner** — an Android barcode and QR scanning application.
+- **[B.I.N.E.S.H. OS](https://github.com/binesheb/binesh-os)** — an automation platform for connected devices and operational systems.
+- **[RetailLens](https://github.com/binesheb/retail-vision-ai)** — a computer-vision foundation for retail environments.
+- **[Living Pookalam](https://github.com/binesheb/living-pookalam)** — an interactive projection platform built for responsive visual experiences.
+- **[Universal Scanner](https://github.com/binesheb/universal-scanner)** — an Android barcode and QR scanning application.
 
 > This profile evolves with the projects behind it. Individual repositories are the source of truth for architecture, setup, releases, and update instructions.
 
